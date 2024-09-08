@@ -1,0 +1,9 @@
+Here's how to run it on your local server:
+
+1. Clone the repository to your computer.
+2. Open the project in Visual Studio or any other code editor.
+3. Install all the necessary dependencies.
+4. Open a terminal, navigate to the Backend directory, and execute `node server.js` to start the backend server, which will be accessible at http://localhost:5000.
+5. Open another terminal, navigate to the Availability-App directory, and run `npm start` to start the application, which will be available at http://localhost:3000.
+6. The data will be stored in a PostgreSQL database.
+7. Set the desired time duration and date using the provided setter, and then test the functionality of the project.
